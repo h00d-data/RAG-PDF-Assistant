@@ -7,6 +7,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Search-Elasticsearch-orange)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
 ![Architecture](https://img.shields.io/badge/Architecture-RAG-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Sistema de **consulta inteligente em documentos PDF** utilizando arquitetura **RAG (Retrieval Augmented Generation)**.
 
