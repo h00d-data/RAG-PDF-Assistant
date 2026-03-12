@@ -268,10 +268,10 @@ desde que **mantenha a atribuição ao autor original**.
 
 # 👨‍💻 Autor
 
-Desenvolvido por **Davi**.
+Desenvolvido por **h00d**.
 
 Caso utilize este projeto, apenas mantenha a referência ao autor no código ou documentação.
-
+![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ⭐ Se este projeto foi útil, considere dar uma estrela no repositório.
